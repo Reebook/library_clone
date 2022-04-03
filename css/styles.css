@@ -1,0 +1,166 @@
+a {
+    text-decoration: none;
+  }
+ .icon__logo--header {
+    width: 140px;
+    height: 62px;
+    margin-bottom: 5px;
+  }
+
+  .icon__logo--footer {
+    background-repeat: no-repeat;
+    width: 120px;
+    height: 53px;
+  }
+  
+.icon__logo--header {
+    background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22120%22%20height%3D%2253%22%20viewBox%3D%220%200%20120%2053%22%3E%3Cg%20fill%3D%22%23FFF%22%3E%3Cpath%20d%3D%22M81.167%2011.151l1.293%202.909.645-3.07%203.071-.323-2.747-1.616.647-2.908-2.264%201.939-2.584-1.455%201.131%202.747-2.262%202.101zM98.456%2028.117l2.101-2.424%202.747%201.293-1.455-2.585%201.939-2.424-2.908.647-1.616-2.586-.324%203.07-3.069.646%202.908%201.293zM57.738%207.597l2.585-1.939%202.424%201.939-.97-3.07%202.585-1.777h-3.069l-.97-2.909-.969%202.909h-3.07l2.424%201.777zM37.379%2010.99l.646%203.07%201.293-2.909%203.07.324-2.424-2.101%201.293-2.747-2.586%201.455-2.423-1.939.646%202.908-2.585%201.616zM17.182%2026.986l2.746-1.293%202.101%202.424-.323-3.07%202.747-1.293-2.909-.646-.323-3.07-1.616%202.586-3.07-.647%202.101%202.424zM119.784%2049.931l-1.454-2.424H62.585c0-1.939%202.101-1.939%203.232-1.939h51.543l-1.454-2.424H67.109c-1.292%200-3.555.162-4.201.323.646-2.262%204.362-2.424%209.533-2.424h42.173l-1.455-2.423H73.411c-4.04%200-8.079.161-10.18%201.615%201.938-2.746%205.333-3.555%2013.572-3.555h35.225l-1.454-2.424H76.966C64.848%2034.257%2060%2037.328%2060%2047.022c0-9.694-4.847-12.766-16.966-12.766H9.426L7.972%2036.68h35.062c8.24%200%2011.634.809%2013.573%203.555-2.101-1.454-5.979-1.615-10.18-1.615H6.841l-1.454%202.423h42.171c5.333%200%208.887.162%209.533%202.424-.646-.161-2.908-.323-4.201-.323H4.094L2.64%2045.567h51.543c1.131%200%203.232%200%203.232%201.939H1.67L.216%2049.93h57.36v1.454h5.009V49.93h57.199z%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E");
+    background-repeat: no-repeat;
+}
+.icon {
+    display: inline-block;
+    min-width: 16px;
+    min-height: 16px;
+    vertical-align: middle;
+    background-position: 50%;
+    background-color: transparent;
+    border: 0 none;
+    cursor: pointer;
+  }
+.icon__logo--footer {
+    background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22120%22%20height%3D%2253%22%20viewBox%3D%220%200%20120%2053%22%3E%3Cg%20fill%3D%22%23F42535%22%3E%3Cpath%20d%3D%22M81.167%2011.151l1.293%202.909.645-3.07%203.071-.323-2.746-1.616.646-2.908-2.264%201.939-2.583-1.455%201.13%202.747-2.261%202.101zM98.456%2028.117l2.101-2.424%202.748%201.293-1.455-2.585%201.938-2.424-2.908.647-1.616-2.586-.325%203.07-3.068.646%202.908%201.293zM57.738%207.597l2.585-1.939%202.424%201.939-.97-3.07%202.584-1.777h-3.068l-.97-2.909-.969%202.909h-3.07l2.424%201.777zM37.379%2010.99l.646%203.07%201.293-2.909%203.07.324-2.424-2.101%201.293-2.747-2.586%201.455-2.423-1.939.646%202.908-2.585%201.616zM17.182%2026.986l2.746-1.293%202.101%202.424-.323-3.07%202.747-1.293-2.909-.646-.323-3.07-1.616%202.586-3.07-.647%202.101%202.424zM119.784%2049.932l-1.454-2.425H62.585c0-1.938%202.101-1.938%203.231-1.938h51.543l-1.453-2.424H67.109c-1.293%200-3.555.162-4.201.322.646-2.262%204.361-2.424%209.533-2.424h42.172l-1.454-2.423H73.411c-4.04%200-8.079.161-10.181%201.614%201.938-2.745%205.334-3.555%2013.572-3.555h35.225l-1.453-2.424H76.966C64.848%2034.257%2060%2037.328%2060%2047.021c0-9.693-4.847-12.766-16.966-12.766H9.426L7.972%2036.68h35.062c8.24%200%2011.634.81%2013.573%203.555-2.101-1.453-5.979-1.614-10.18-1.614H6.841l-1.454%202.423h42.171c5.333%200%208.887.162%209.533%202.424-.646-.16-2.908-.322-4.201-.322H4.094l-1.454%202.42h51.543c1.131%200%203.232%200%203.232%201.939H1.67L.216%2049.93h57.36v1.454h5.009V49.93h57.199v.002z%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E");
+    background-repeat: no-repeat;
+  }
+
+header {
+    background-color: #000;
+    position: absolute;
+    top: 0;
+    z-index: 1000;
+    width: 100%;
+    height: 150px;
+    min-height: 80px;
+    color: white;
+}
+
+header a{
+    color: white;
+    text-decoration: none;
+}
+
+header ul{
+    list-style-type: none;
+    display: inline-block;
+}
+
+header li{
+    display: inline-block;  
+    margin-left: 20px;
+}
+
+header li a{
+    font-size: 1.3em;
+}
+
+
+.icon {
+    display: inline-block;
+    min-width: 16px;
+    min-height: 16px;
+    vertical-align: middle;
+    background-position: 50%;
+    background-color: transparent;
+    border: 0 none;
+    cursor: pointer;
+}
+
+.header__branding {
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    top: 21px;
+    width: 250px;
+    margin: 0 0 0 -125px;
+    z-index: 10004;
+    font-size: 1.8em;
+}
+
+.center_text{
+    text-align: center;
+}
+
+.vertical-center {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: 150px;
+  
+  }
+
+  .margin_content{
+      margin-top: 200px;
+  }
+
+
+  .border_div {
+    border-top: 7px solid #000;
+    padding-top: 23px;
+  }
+
+  .text_title{
+    font-size: 18px;
+    line-height: 25px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #f42535;
+  }
+
+  .principal_title{
+    font-size: 20px;
+    line-height: 25px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    width: 100%;
+    text-align: center;
+    padding: 24px 0 29px 0;
+    display: block;
+  }
+
+  .footer_title{
+    display: block;
+    font-family: Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    line-height: 25px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.025em;
+    margin-bottom: 5px;
+  }
+
+  ul li {
+    list-style: none
+  }
+
+  .site-footer__link-list{
+    color: black;
+        font-size: 18px;
+    line-height: 25px;
+    font-weight: 500;
+    line-height: 20px;
+    color: #777;
+  }
+
+  .footer_sign{
+    display: block;
+margin-bottom: 18px;
+font-family: Times,Courier,serif;
+font-size: 21px;
+line-height: 35px;
+font-weight: 500;
+  }
+
+  .background_gray{
+    background-color: #eee;
+  }
